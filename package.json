@@ -1,0 +1,19 @@
+{
+  "name": "ex05",
+  "version": "0.0.1",
+  "description": "une saucisse",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exo",
+    "nodejs",
+    "technocite"
+  ],
+  "author": "Lightbolt",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promisify": "^5.0.0"
+  }
+}
